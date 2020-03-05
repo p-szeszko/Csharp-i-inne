@@ -1,0 +1,17 @@
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\L3_Z4_Test2.deps.json
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\L3_Z4_Test2.runtimeconfig.json
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\L3_Z4_Test2.runtimeconfig.dev.json
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\L3_Z4_Test2.dll
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\L3_Z4_Test2.pdb
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\L3_Z4.dll
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\bin\Debug\netcoreapp2.2\L3_Z4.pdb
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\obj\Debug\netcoreapp2.2\L3_Z4_Test2.csprojAssemblyReference.cache
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\obj\Debug\netcoreapp2.2\L3_Z4_Test2.csproj.CoreCompileInputs.cache
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\obj\Debug\netcoreapp2.2\L3_Z4_Test2.AssemblyInfoInputs.cache
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\obj\Debug\netcoreapp2.2\L3_Z4_Test2.AssemblyInfo.cs
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\obj\Debug\netcoreapp2.2\L3_Z4_Test2.csproj.CopyComplete
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\obj\Debug\netcoreapp2.2\L3_Z4_Test2.dll
+E:\C3\L3_Z4_Test2\L3_Z4_Test2\obj\Debug\netcoreapp2.2\L3_Z4_Test2.pdb

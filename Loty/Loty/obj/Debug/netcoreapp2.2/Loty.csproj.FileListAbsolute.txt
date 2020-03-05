@@ -1,0 +1,22 @@
+E:\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.csprojAssemblyReference.cache
+E:\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.csproj.CoreCompileInputs.cache
+E:\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.AssemblyInfoInputs.cache
+E:\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.AssemblyInfo.cs
+E:\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.deps.json
+E:\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.runtimeconfig.json
+E:\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.runtimeconfig.dev.json
+E:\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.dll
+E:\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.pdb
+E:\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.dll
+E:\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.pdb
+E:\Semestr 5\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.deps.json
+E:\Semestr 5\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.runtimeconfig.json
+E:\Semestr 5\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.runtimeconfig.dev.json
+E:\Semestr 5\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.dll
+E:\Semestr 5\C3\Loty\Loty\bin\Debug\netcoreapp2.2\Loty.pdb
+E:\Semestr 5\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.csprojAssemblyReference.cache
+E:\Semestr 5\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.csproj.CoreCompileInputs.cache
+E:\Semestr 5\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.AssemblyInfoInputs.cache
+E:\Semestr 5\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.AssemblyInfo.cs
+E:\Semestr 5\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.dll
+E:\Semestr 5\C3\Loty\Loty\obj\Debug\netcoreapp2.2\Loty.pdb

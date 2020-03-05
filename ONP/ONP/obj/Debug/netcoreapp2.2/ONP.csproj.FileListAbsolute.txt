@@ -1,0 +1,11 @@
+E:\C3\ONP\ONP\bin\Debug\netcoreapp2.2\ONP.deps.json
+E:\C3\ONP\ONP\bin\Debug\netcoreapp2.2\ONP.runtimeconfig.json
+E:\C3\ONP\ONP\bin\Debug\netcoreapp2.2\ONP.runtimeconfig.dev.json
+E:\C3\ONP\ONP\bin\Debug\netcoreapp2.2\ONP.dll
+E:\C3\ONP\ONP\bin\Debug\netcoreapp2.2\ONP.pdb
+E:\C3\ONP\ONP\obj\Debug\netcoreapp2.2\ONP.csprojAssemblyReference.cache
+E:\C3\ONP\ONP\obj\Debug\netcoreapp2.2\ONP.csproj.CoreCompileInputs.cache
+E:\C3\ONP\ONP\obj\Debug\netcoreapp2.2\ONP.AssemblyInfoInputs.cache
+E:\C3\ONP\ONP\obj\Debug\netcoreapp2.2\ONP.AssemblyInfo.cs
+E:\C3\ONP\ONP\obj\Debug\netcoreapp2.2\ONP.dll
+E:\C3\ONP\ONP\obj\Debug\netcoreapp2.2\ONP.pdb

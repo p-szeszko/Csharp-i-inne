@@ -1,0 +1,11 @@
+E:\C3\bin\Release\netcoreapp2.2\C3.deps.json
+E:\C3\bin\Release\netcoreapp2.2\C3.runtimeconfig.json
+E:\C3\bin\Release\netcoreapp2.2\C3.runtimeconfig.dev.json
+E:\C3\bin\Release\netcoreapp2.2\C3.dll
+E:\C3\bin\Release\netcoreapp2.2\C3.pdb
+E:\C3\obj\Release\netcoreapp2.2\C3.csprojAssemblyReference.cache
+E:\C3\obj\Release\netcoreapp2.2\C3.csproj.CoreCompileInputs.cache
+E:\C3\obj\Release\netcoreapp2.2\C3.AssemblyInfoInputs.cache
+E:\C3\obj\Release\netcoreapp2.2\C3.AssemblyInfo.cs
+E:\C3\obj\Release\netcoreapp2.2\C3.dll
+E:\C3\obj\Release\netcoreapp2.2\C3.pdb

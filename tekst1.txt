@@ -1,0 +1,5 @@
+﻿Konsola programu jest oknem systemu operacyjnego, 
+w którym użytkownicy wchodzą w interakcje z systemem 
+operacyjnym lub z aplikacją konsolową opartą na tekście 
+przez wprowadzanie tekstu wejsciowego za pomocą klawiatury 
+komputer i odczytywanie tekstu wyjściowego z terminalu komputerowego. 

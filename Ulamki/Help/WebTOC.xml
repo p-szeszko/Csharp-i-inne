@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="c5b549fc-b5f8-405b-b4b2-27e044d7bccb" Title="ConsoleApp2 Namespace" Url="html/N-ConsoleApp2.htm">
+    <HelpTOCNode Id="2dbc763d-8b73-4d44-a5c0-d20b72d126ba" Title="Fraction Class" Url="html/T-ConsoleApp2.Fraction.htm">
+      <HelpTOCNode Title="Fraction Members" Url="html/AllMembers.T-ConsoleApp2.Fraction.htm" />
+      <HelpTOCNode Id="2f849f07-a0c0-4f49-9f9e-b7f913c41433" Title="Fraction Constructor " Url="html/Overload-ConsoleApp2.Fraction.-ctor.htm">
+        <HelpTOCNode Title="Fraction Constructor (Int32, Int32)" Url="html/M-ConsoleApp2.Fraction.-ctor.htm" />
+        <HelpTOCNode Title="Fraction Constructor (Fraction)" Url="html/M-ConsoleApp2.Fraction.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5b910a40-4014-42b8-b58c-1558b30764b1" Title="Fraction Fields" Url="html/Fields.T-ConsoleApp2.Fraction.htm">
+        <HelpTOCNode Title="Denominator Field" Url="html/F-ConsoleApp2.Fraction.Denominator.htm" />
+        <HelpTOCNode Title="normal Field" Url="html/F-ConsoleApp2.Fraction.normal.htm" />
+        <HelpTOCNode Title="Numerator Field" Url="html/F-ConsoleApp2.Fraction.Numerator.htm" />
+        <HelpTOCNode Title="Zero Field" Url="html/F-ConsoleApp2.Fraction.Zero.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="60688587-6348-4077-86b8-28a7d8e7665a" Title="Fraction Methods" Url="html/Methods.T-ConsoleApp2.Fraction.htm">
+        <HelpTOCNode Title="ChangeNormal Method " Url="html/M-ConsoleApp2.Fraction.ChangeNormal.htm" />
+        <HelpTOCNode Title="GetReciprocal Method " Url="html/M-ConsoleApp2.Fraction.GetReciprocal.htm" />
+        <HelpTOCNode Title="GetReduced Method " Url="html/M-ConsoleApp2.Fraction.GetReduced.htm" />
+        <HelpTOCNode Title="ToDenominator Method " Url="html/M-ConsoleApp2.Fraction.ToDenominator.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7abd941d-6f7e-4f28-bd44-3d18453c94f5" Title="Fraction Operators" Url="html/Operators.T-ConsoleApp2.Fraction.htm">
+        <HelpTOCNode Title="Addition Operator " Url="html/M-ConsoleApp2.Fraction.op_Addition.htm" />
+        <HelpTOCNode Title="Division Operator " Url="html/M-ConsoleApp2.Fraction.op_Division.htm" />
+        <HelpTOCNode Title="Multiply Operator " Url="html/M-ConsoleApp2.Fraction.op_Multiply.htm" />
+        <HelpTOCNode Title="Subtraction Operator " Url="html/M-ConsoleApp2.Fraction.op_Subtraction.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2cb705d2-b0bc-44f4-81fe-c4d6f9648781" Title="Program Class" Url="html/T-ConsoleApp2.Program.htm">
+      <HelpTOCNode Title="Program Members" Url="html/AllMembers.T-ConsoleApp2.Program.htm" />
+      <HelpTOCNode Id="19c06941-6b55-4606-bc2f-8decfdf792ad" Title="Program Methods" Url="html/Methods.T-ConsoleApp2.Program.htm">
+        <HelpTOCNode Title="GetOperation Method " Url="html/M-ConsoleApp2.Program.GetOperation.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

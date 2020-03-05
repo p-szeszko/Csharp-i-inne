@@ -1,0 +1,9 @@
+E:\C3\hello1\bin\Debug\net48\hello1.exe.config
+E:\C3\hello1\bin\Debug\net48\hello1.exe
+E:\C3\hello1\bin\Debug\net48\hello1.pdb
+E:\C3\hello1\obj\Debug\net48\hello1.csprojAssemblyReference.cache
+E:\C3\hello1\obj\Debug\net48\hello1.csproj.CoreCompileInputs.cache
+E:\C3\hello1\obj\Debug\net48\hello1.AssemblyInfoInputs.cache
+E:\C3\hello1\obj\Debug\net48\hello1.AssemblyInfo.cs
+E:\C3\hello1\obj\Debug\net48\hello1.exe
+E:\C3\hello1\obj\Debug\net48\hello1.pdb

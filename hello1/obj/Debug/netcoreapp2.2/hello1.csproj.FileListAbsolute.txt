@@ -1,0 +1,11 @@
+E:\C3\hello1\obj\Debug\netcoreapp2.2\hello1.csproj.CoreCompileInputs.cache
+E:\C3\hello1\obj\Debug\netcoreapp2.2\hello1.AssemblyInfoInputs.cache
+E:\C3\hello1\obj\Debug\netcoreapp2.2\hello1.AssemblyInfo.cs
+E:\C3\hello1\bin\Debug\netcoreapp2.2\hello1.deps.json
+E:\C3\hello1\bin\Debug\netcoreapp2.2\hello1.runtimeconfig.json
+E:\C3\hello1\bin\Debug\netcoreapp2.2\hello1.runtimeconfig.dev.json
+E:\C3\hello1\bin\Debug\netcoreapp2.2\hello1.dll
+E:\C3\hello1\bin\Debug\netcoreapp2.2\hello1.pdb
+E:\C3\hello1\obj\Debug\netcoreapp2.2\hello1.csprojAssemblyReference.cache
+E:\C3\hello1\obj\Debug\netcoreapp2.2\hello1.dll
+E:\C3\hello1\obj\Debug\netcoreapp2.2\hello1.pdb

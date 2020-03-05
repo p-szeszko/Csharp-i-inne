@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>ONP</name>
+  </assembly>
+  <members>
+    <member name="T:ONP.ONP">
+      <summary>Klasa sużąca do obliczania dzialan zapisanych przy pomocy ONP</summary>
+    </member>
+    <member name="M:ONP.ONP.#ctor">
+      <summary>Konstruktor klasy ONP.</summary>
+    </member>
+    <member name="M:ONP.ONP.onp_read">
+      <summary>Metoda wczytująca ciąg ONP i uruchamiająca funkcję obliczającą ten ciąg.</summary>
+    </member>
+    <member name="M:ONP.ONP.calculate_onp(System.String)">
+      <summary>
+   Metoda pobiera ciąg ONP, oblicza jego wynik, wypisuje go i uruchamia funkcję wczytującą kolejny ciąg ONP. Metoda operuje na stosie.
+   Wpisanie znaku/operatora innego niż: {*,/,+,-,=} lub cyfry powoduje przerwanie dziaania programu.
+   </summary>
+      <param name="onp">Ciąg ONP, w ktorym symbole muszę być oddzielone spacją</param>
+    </member>
+  </members>
+</doc>

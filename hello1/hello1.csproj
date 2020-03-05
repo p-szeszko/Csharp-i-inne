@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>netcoreapp2.2;net48</TargetFrameworks>
+	 <LangVersion>5</LangVersion>
+  </PropertyGroup>
+
+</Project>

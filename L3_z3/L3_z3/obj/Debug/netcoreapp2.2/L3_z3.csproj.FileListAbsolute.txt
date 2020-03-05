@@ -1,0 +1,10 @@
+E:\C3\L3_z3\L3_z3\bin\Debug\netcoreapp2.2\L3_z3.deps.json
+E:\C3\L3_z3\L3_z3\bin\Debug\netcoreapp2.2\L3_z3.runtimeconfig.json
+E:\C3\L3_z3\L3_z3\bin\Debug\netcoreapp2.2\L3_z3.runtimeconfig.dev.json
+E:\C3\L3_z3\L3_z3\bin\Debug\netcoreapp2.2\L3_z3.dll
+E:\C3\L3_z3\L3_z3\bin\Debug\netcoreapp2.2\L3_z3.pdb
+E:\C3\L3_z3\L3_z3\obj\Debug\netcoreapp2.2\L3_z3.csproj.CoreCompileInputs.cache
+E:\C3\L3_z3\L3_z3\obj\Debug\netcoreapp2.2\L3_z3.AssemblyInfoInputs.cache
+E:\C3\L3_z3\L3_z3\obj\Debug\netcoreapp2.2\L3_z3.AssemblyInfo.cs
+E:\C3\L3_z3\L3_z3\obj\Debug\netcoreapp2.2\L3_z3.dll
+E:\C3\L3_z3\L3_z3\obj\Debug\netcoreapp2.2\L3_z3.pdb

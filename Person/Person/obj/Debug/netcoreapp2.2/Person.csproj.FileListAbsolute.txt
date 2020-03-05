@@ -1,0 +1,11 @@
+E:\Semestr 5\C3\Person\Person\obj\Debug\netcoreapp2.2\Person.csprojAssemblyReference.cache
+E:\Semestr 5\C3\Person\Person\obj\Debug\netcoreapp2.2\Person.csproj.CoreCompileInputs.cache
+E:\Semestr 5\C3\Person\Person\obj\Debug\netcoreapp2.2\Person.AssemblyInfoInputs.cache
+E:\Semestr 5\C3\Person\Person\obj\Debug\netcoreapp2.2\Person.AssemblyInfo.cs
+E:\Semestr 5\C3\Person\Person\bin\Debug\netcoreapp2.2\Person.deps.json
+E:\Semestr 5\C3\Person\Person\bin\Debug\netcoreapp2.2\Person.runtimeconfig.json
+E:\Semestr 5\C3\Person\Person\bin\Debug\netcoreapp2.2\Person.runtimeconfig.dev.json
+E:\Semestr 5\C3\Person\Person\bin\Debug\netcoreapp2.2\Person.dll
+E:\Semestr 5\C3\Person\Person\bin\Debug\netcoreapp2.2\Person.pdb
+E:\Semestr 5\C3\Person\Person\obj\Debug\netcoreapp2.2\Person.dll
+E:\Semestr 5\C3\Person\Person\obj\Debug\netcoreapp2.2\Person.pdb

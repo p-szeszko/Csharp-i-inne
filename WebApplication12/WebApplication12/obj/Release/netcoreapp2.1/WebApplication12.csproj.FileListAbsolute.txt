@@ -1,0 +1,15 @@
+E:\Semestr 5\C3\WebApplication12\WebApplication12\bin\Release\netcoreapp2.1\WebApplication12.deps.json
+E:\Semestr 5\C3\WebApplication12\WebApplication12\bin\Release\netcoreapp2.1\WebApplication12.runtimeconfig.json
+E:\Semestr 5\C3\WebApplication12\WebApplication12\bin\Release\netcoreapp2.1\WebApplication12.runtimeconfig.dev.json
+E:\Semestr 5\C3\WebApplication12\WebApplication12\bin\Release\netcoreapp2.1\WebApplication12.dll
+E:\Semestr 5\C3\WebApplication12\WebApplication12\bin\Release\netcoreapp2.1\WebApplication12.pdb
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\WebApplication12.csprojAssemblyReference.cache
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\WebApplication12.csproj.CoreCompileInputs.cache
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\WebApplication12.RazorAssemblyInfo.cache
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\WebApplication12.RazorAssemblyInfo.cs
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\WebApplication12.AssemblyInfoInputs.cache
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\WebApplication12.AssemblyInfo.cs
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\WebApplication12.RazorTargetAssemblyInfo.cache
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\WebApplication12.dll
+E:\Semestr 5\C3\WebApplication12\WebApplication12\obj\Release\netcoreapp2.1\WebApplication12.pdb

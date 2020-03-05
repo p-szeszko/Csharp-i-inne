@@ -1,0 +1,55 @@
+<div class="row col-md-12">
+    <hr>
+<form (ngSubmit)="onSubmit()" [formGroup]="descriptionForm">
+<div class="row">
+    <div class="row col-md-12">
+        <div class="form-group">
+            <label for="mail">Mail</label>
+            <input
+            style="width: 560px;"
+            type="email"
+            id="mail"
+            class="form-control"
+            formControlName="mail">
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="row col-md-12">
+        <div class="form-group">
+            <label for="title">Tytył zgłoszenia</label>
+            <input
+            style="width: 560px;"
+            type="text"
+            id="title"
+            class="form-control"
+            formControlName="title">
+        </div>
+    </div>
+    <div class="row col-md-12">
+        <div class="form-group">
+            <label for="description">Opis</label>
+            <textarea
+            style="width: 560px;"
+            type="text"
+            id="description"
+            class="form-control"
+            rows="4"
+            formControlName="description">
+        </textarea>
+        </div>
+    </div>
+    <div class="row col-md-12">
+        <button
+        type="submit"
+        class="btn btn-success"
+        [disabled]="!descriptionForm.valid">Wyślij</button>
+        <button
+        type="button"
+        class="btn btn-warning"
+        (click)="resetForm()">Anuluj</button>
+    </div>
+</div>
+</form>
+
+</div>

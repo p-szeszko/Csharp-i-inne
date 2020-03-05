@@ -1,0 +1,7 @@
+E:\C3\L3_Z1\L3_Z1\bin\Debug\L3_Z1.exe.config
+E:\C3\L3_Z1\L3_Z1\bin\Debug\L3_Z1.exe
+E:\C3\L3_Z1\L3_Z1\bin\Debug\L3_Z1.pdb
+E:\C3\L3_Z1\L3_Z1\obj\Debug\L3_Z1.csprojAssemblyReference.cache
+E:\C3\L3_Z1\L3_Z1\obj\Debug\L3_Z1.csproj.CoreCompileInputs.cache
+E:\C3\L3_Z1\L3_Z1\obj\Debug\L3_Z1.exe
+E:\C3\L3_Z1\L3_Z1\obj\Debug\L3_Z1.pdb

@@ -1,0 +1,11 @@
+E:\Semestr 5\C3\Task_laby\Task_laby\obj\Debug\netcoreapp2.2\Task_laby.csprojAssemblyReference.cache
+E:\Semestr 5\C3\Task_laby\Task_laby\obj\Debug\netcoreapp2.2\Task_laby.csproj.CoreCompileInputs.cache
+E:\Semestr 5\C3\Task_laby\Task_laby\obj\Debug\netcoreapp2.2\Task_laby.AssemblyInfoInputs.cache
+E:\Semestr 5\C3\Task_laby\Task_laby\obj\Debug\netcoreapp2.2\Task_laby.AssemblyInfo.cs
+E:\Semestr 5\C3\Task_laby\Task_laby\bin\Debug\netcoreapp2.2\Task_laby.deps.json
+E:\Semestr 5\C3\Task_laby\Task_laby\bin\Debug\netcoreapp2.2\Task_laby.runtimeconfig.json
+E:\Semestr 5\C3\Task_laby\Task_laby\bin\Debug\netcoreapp2.2\Task_laby.runtimeconfig.dev.json
+E:\Semestr 5\C3\Task_laby\Task_laby\bin\Debug\netcoreapp2.2\Task_laby.dll
+E:\Semestr 5\C3\Task_laby\Task_laby\bin\Debug\netcoreapp2.2\Task_laby.pdb
+E:\Semestr 5\C3\Task_laby\Task_laby\obj\Debug\netcoreapp2.2\Task_laby.dll
+E:\Semestr 5\C3\Task_laby\Task_laby\obj\Debug\netcoreapp2.2\Task_laby.pdb

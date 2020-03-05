@@ -1,0 +1,11 @@
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.deps.json
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.runtimeconfig.json
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.runtimeconfig.dev.json
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.dll
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.pdb
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.csprojAssemblyReference.cache
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.AssemblyInfoInputs.cache
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.AssemblyInfo.cs
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.dll
+E:\Semestr 5\C3\Ulamki\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.pdb

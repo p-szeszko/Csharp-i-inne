@@ -1,0 +1,11 @@
+E:\Semestr 5\C3\String\String\bin\Debug\netcoreapp2.2\String.deps.json
+E:\Semestr 5\C3\String\String\bin\Debug\netcoreapp2.2\String.runtimeconfig.json
+E:\Semestr 5\C3\String\String\bin\Debug\netcoreapp2.2\String.runtimeconfig.dev.json
+E:\Semestr 5\C3\String\String\bin\Debug\netcoreapp2.2\String.dll
+E:\Semestr 5\C3\String\String\bin\Debug\netcoreapp2.2\String.pdb
+E:\Semestr 5\C3\String\String\obj\Debug\netcoreapp2.2\String.csprojAssemblyReference.cache
+E:\Semestr 5\C3\String\String\obj\Debug\netcoreapp2.2\String.csproj.CoreCompileInputs.cache
+E:\Semestr 5\C3\String\String\obj\Debug\netcoreapp2.2\String.AssemblyInfoInputs.cache
+E:\Semestr 5\C3\String\String\obj\Debug\netcoreapp2.2\String.AssemblyInfo.cs
+E:\Semestr 5\C3\String\String\obj\Debug\netcoreapp2.2\String.dll
+E:\Semestr 5\C3\String\String\obj\Debug\netcoreapp2.2\String.pdb

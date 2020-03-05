@@ -1,0 +1,14 @@
+E:\Semestr 5\C3\Lista13\Lista13\bin\Debug\netcoreapp2.2\Lista13.deps.json
+E:\Semestr 5\C3\Lista13\Lista13\bin\Debug\netcoreapp2.2\Lista13.runtimeconfig.json
+E:\Semestr 5\C3\Lista13\Lista13\bin\Debug\netcoreapp2.2\Lista13.runtimeconfig.dev.json
+E:\Semestr 5\C3\Lista13\Lista13\bin\Debug\netcoreapp2.2\Lista13.dll
+E:\Semestr 5\C3\Lista13\Lista13\bin\Debug\netcoreapp2.2\Lista13.pdb
+E:\Semestr 5\C3\Lista13\Lista13\obj\Debug\netcoreapp2.2\Lista13.csprojAssemblyReference.cache
+E:\Semestr 5\C3\Lista13\Lista13\obj\Debug\netcoreapp2.2\Lista13.csproj.CoreCompileInputs.cache
+E:\Semestr 5\C3\Lista13\Lista13\obj\Debug\netcoreapp2.2\Lista13.RazorAssemblyInfo.cache
+E:\Semestr 5\C3\Lista13\Lista13\obj\Debug\netcoreapp2.2\Lista13.RazorAssemblyInfo.cs
+E:\Semestr 5\C3\Lista13\Lista13\obj\Debug\netcoreapp2.2\Lista13.AssemblyInfoInputs.cache
+E:\Semestr 5\C3\Lista13\Lista13\obj\Debug\netcoreapp2.2\Lista13.AssemblyInfo.cs
+E:\Semestr 5\C3\Lista13\Lista13\obj\Debug\netcoreapp2.2\Lista13.RazorTargetAssemblyInfo.cache
+E:\Semestr 5\C3\Lista13\Lista13\obj\Debug\netcoreapp2.2\Lista13.dll
+E:\Semestr 5\C3\Lista13\Lista13\obj\Debug\netcoreapp2.2\Lista13.pdb

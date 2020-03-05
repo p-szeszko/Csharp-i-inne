@@ -1,0 +1,14 @@
+E:\Semestr 5\C3\Angular_1\Angular_1\obj\Debug\netcoreapp2.2\Angular_1.csprojAssemblyReference.cache
+E:\Semestr 5\C3\Angular_1\Angular_1\obj\Debug\netcoreapp2.2\Angular_1.csproj.CoreCompileInputs.cache
+E:\Semestr 5\C3\Angular_1\Angular_1\obj\Debug\netcoreapp2.2\Angular_1.RazorAssemblyInfo.cache
+E:\Semestr 5\C3\Angular_1\Angular_1\obj\Debug\netcoreapp2.2\Angular_1.RazorAssemblyInfo.cs
+E:\Semestr 5\C3\Angular_1\Angular_1\obj\Debug\netcoreapp2.2\Angular_1.AssemblyInfoInputs.cache
+E:\Semestr 5\C3\Angular_1\Angular_1\obj\Debug\netcoreapp2.2\Angular_1.AssemblyInfo.cs
+E:\Semestr 5\C3\Angular_1\Angular_1\bin\Debug\netcoreapp2.2\Angular_1.deps.json
+E:\Semestr 5\C3\Angular_1\Angular_1\bin\Debug\netcoreapp2.2\Angular_1.runtimeconfig.json
+E:\Semestr 5\C3\Angular_1\Angular_1\bin\Debug\netcoreapp2.2\Angular_1.runtimeconfig.dev.json
+E:\Semestr 5\C3\Angular_1\Angular_1\bin\Debug\netcoreapp2.2\Angular_1.dll
+E:\Semestr 5\C3\Angular_1\Angular_1\bin\Debug\netcoreapp2.2\Angular_1.pdb
+E:\Semestr 5\C3\Angular_1\Angular_1\obj\Debug\netcoreapp2.2\Angular_1.RazorTargetAssemblyInfo.cache
+E:\Semestr 5\C3\Angular_1\Angular_1\obj\Debug\netcoreapp2.2\Angular_1.dll
+E:\Semestr 5\C3\Angular_1\Angular_1\obj\Debug\netcoreapp2.2\Angular_1.pdb

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Addition operator" Url="html/M-ConsoleApp2.Fraction.op_Addition.htm" />
+  <HelpKINode Title="ChangeNormal method" Url="html/M-ConsoleApp2.Fraction.ChangeNormal.htm" />
+  <HelpKINode Title="ConsoleApp2 namespace" Url="html/N-ConsoleApp2.htm" />
+  <HelpKINode Title="ConsoleApp2.Fraction class">
+    <HelpKINode Title="Fraction Class" Url="html/T-ConsoleApp2.Fraction.htm" />
+    <HelpKINode Title="Fraction Members" Url="html/AllMembers.T-ConsoleApp2.Fraction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConsoleApp2.Program class">
+    <HelpKINode Title="Program Class" Url="html/T-ConsoleApp2.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-ConsoleApp2.Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Denominator field" Url="html/F-ConsoleApp2.Fraction.Denominator.htm" />
+  <HelpKINode Title="Division operator" Url="html/M-ConsoleApp2.Fraction.op_Division.htm" />
+  <HelpKINode Title="Fraction class">
+    <HelpKINode Title="Fraction Class" Url="html/T-ConsoleApp2.Fraction.htm" />
+    <HelpKINode Title="Fraction Members" Url="html/AllMembers.T-ConsoleApp2.Fraction.htm" />
+    <HelpKINode Title="about Fraction class" Url="html/T-ConsoleApp2.Fraction.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-ConsoleApp2.Fraction.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload-ConsoleApp2.Fraction.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-ConsoleApp2.Fraction.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-ConsoleApp2.Fraction.htm" />
+    <HelpKINode Title="operators" Url="html/Operators.T-ConsoleApp2.Fraction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Fraction.Addition operator" Url="html/M-ConsoleApp2.Fraction.op_Addition.htm" />
+  <HelpKINode Title="Fraction.ChangeNormal method" Url="html/M-ConsoleApp2.Fraction.ChangeNormal.htm" />
+  <HelpKINode Title="Fraction.Denominator field" Url="html/F-ConsoleApp2.Fraction.Denominator.htm" />
+  <HelpKINode Title="Fraction.Division operator" Url="html/M-ConsoleApp2.Fraction.op_Division.htm" />
+  <HelpKINode Title="Fraction.Fraction constructor" Url="html/Overload-ConsoleApp2.Fraction.-ctor.htm" />
+  <HelpKINode Title="Fraction.GetReciprocal method" Url="html/M-ConsoleApp2.Fraction.GetReciprocal.htm" />
+  <HelpKINode Title="Fraction.GetReduced method" Url="html/M-ConsoleApp2.Fraction.GetReduced.htm" />
+  <HelpKINode Title="Fraction.Multiply operator" Url="html/M-ConsoleApp2.Fraction.op_Multiply.htm" />
+  <HelpKINode Title="Fraction.normal field" Url="html/F-ConsoleApp2.Fraction.normal.htm" />
+  <HelpKINode Title="Fraction.Numerator field" Url="html/F-ConsoleApp2.Fraction.Numerator.htm" />
+  <HelpKINode Title="Fraction.Subtraction operator" Url="html/M-ConsoleApp2.Fraction.op_Subtraction.htm" />
+  <HelpKINode Title="Fraction.ToDenominator method" Url="html/M-ConsoleApp2.Fraction.ToDenominator.htm" />
+  <HelpKINode Title="Fraction.Zero field" Url="html/F-ConsoleApp2.Fraction.Zero.htm" />
+  <HelpKINode Title="GetOperation method" Url="html/M-ConsoleApp2.Program.GetOperation.htm" />
+  <HelpKINode Title="GetReciprocal method" Url="html/M-ConsoleApp2.Fraction.GetReciprocal.htm" />
+  <HelpKINode Title="GetReduced method" Url="html/M-ConsoleApp2.Fraction.GetReduced.htm" />
+  <HelpKINode Title="Multiply operator" Url="html/M-ConsoleApp2.Fraction.op_Multiply.htm" />
+  <HelpKINode Title="normal field" Url="html/F-ConsoleApp2.Fraction.normal.htm" />
+  <HelpKINode Title="Numerator field" Url="html/F-ConsoleApp2.Fraction.Numerator.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/T-ConsoleApp2.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-ConsoleApp2.Program.htm" />
+    <HelpKINode Title="about Program class" Url="html/T-ConsoleApp2.Program.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-ConsoleApp2.Program.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-ConsoleApp2.Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.GetOperation method" Url="html/M-ConsoleApp2.Program.GetOperation.htm" />
+  <HelpKINode Title="Subtraction operator" Url="html/M-ConsoleApp2.Fraction.op_Subtraction.htm" />
+  <HelpKINode Title="ToDenominator method" Url="html/M-ConsoleApp2.Fraction.ToDenominator.htm" />
+  <HelpKINode Title="Zero field" Url="html/F-ConsoleApp2.Fraction.Zero.htm" />
+</HelpKI>

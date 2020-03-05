@@ -1,0 +1,10 @@
+E:\C3\myFSharpApp\obj\Debug\netcoreapp2.2\myFSharpApp.fsprojAssemblyReference.cache
+E:\C3\myFSharpApp\obj\Debug\netcoreapp2.2\myFSharpApp.AssemblyInfoInputs.cache
+E:\C3\myFSharpApp\obj\Debug\netcoreapp2.2\myFSharpApp.AssemblyInfo.fs
+E:\C3\myFSharpApp\bin\Debug\netcoreapp2.2\myFSharpApp.deps.json
+E:\C3\myFSharpApp\bin\Debug\netcoreapp2.2\myFSharpApp.runtimeconfig.json
+E:\C3\myFSharpApp\bin\Debug\netcoreapp2.2\myFSharpApp.runtimeconfig.dev.json
+E:\C3\myFSharpApp\bin\Debug\netcoreapp2.2\myFSharpApp.dll
+E:\C3\myFSharpApp\bin\Debug\netcoreapp2.2\myFSharpApp.pdb
+E:\C3\myFSharpApp\obj\Debug\netcoreapp2.2\myFSharpApp.dll
+E:\C3\myFSharpApp\obj\Debug\netcoreapp2.2\myFSharpApp.pdb
